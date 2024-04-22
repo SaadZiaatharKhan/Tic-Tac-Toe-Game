@@ -4,7 +4,7 @@
 
 ![ ](./Screenshot_2.png)
 
-This is a Tic Tac Toe Game built in Python. It is a two player game which you can play with your friends. It has two versions - Simple and Advanced. Ofcourse the advanced one is made by modifying the simple one. There is also the executable file in case you don't have Python,
+This is a Tic Tac Toe Game built in Python. It is a two player game which you can play with your friends. It has two versions - Simple and Advanced. Ofcourse the advanced one is made by modifying the simple one. There is also the executable file in case you don't have Python.
 
 The Advanced Tic Tac Toe contains the following features - 
 - It shows date and time.
